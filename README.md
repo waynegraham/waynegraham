@@ -4,8 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waynegraham)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=waynegraham&show_icons=true)  
+![Stats](./profile/stats.svg)
 
 ![GitHub metrics](https://metrics.lecoq.io/waynegraham)  
 
-![Stats](./profile/stats.svg)

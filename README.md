@@ -7,3 +7,5 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=waynegraham&show_icons=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/waynegraham)  
+
+![Stats](./profile/stats.svg)

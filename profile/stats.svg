@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Wayne Graham's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 105, Total Commits  (last year) : 1265, Total PRs: 109, Total Issues: 1001, Contributed to (last year): 22</desc>
+        <desc id="descId">Total Stars Earned: 105, Total Commits  (last year) : 1271, Total PRs: 109, Total Issues: 1001, Contributed to (last year): 22</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 64.87962528028027;
+        stroke-dashoffset: 64.85890926694863;
       }
     }
   
